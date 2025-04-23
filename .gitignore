@@ -1,0 +1,41 @@
+# Archivos de sistema macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Iconos personalizados de carpetas
+Icon?
+
+# Archivos creados por macOS al acceder a recursos de red
+._*
+
+# Archivos temporales de Spotlight
+.Spotlight-V100
+
+# Archivos de sistema montados
+.Trashes
+
+# Archivos de metadatos de macOS
+ehthumbs.db
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de compilación
+bin/
+build/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de IDEs
+*.iml
+.idea/
+.vscode/
+
+# Archivos generados por herramientas de pruebas
+test-output/
