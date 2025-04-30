@@ -11,11 +11,17 @@ El curso está dividido en sesiones, y cada carpeta representa una sesión con s
 - ✅ Aplicación de estructuras de control, POO, manejo de archivos, etc.
 - ✅ Buenas prácticas en Java
 
-## 📁 Estructura del repositorio
+## 📁 Estructura general del repositorio
 
-Cada sesión del curso está organizada de la siguiente manera:
+- `Sesion-XX/`
+  - `README.md` – Descripción general de los retos de la sesión
+  - `sXX-reto-01/`
+    - `out/` – Archivos compilados
+    - `src/` – Código fuente Java
+    - `reto.iml` – Archivo del proyecto (opcional)
+  - `sXX-reto-02/`
+    - ...
 
-sesion-XX-nombre-de-la-sesion/ ├── README.md # Descripción general de la sesión ├── ejemplo-XX-nombre-del-ejemplo/ │ └── Main.java # Código del ejemplo └── reto-XX-nombre-del-reto/ ├── Main.java # Código del reto └── README.md # Explicación del reto
 
 
 ## 🚀 Objetivo
