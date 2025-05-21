@@ -13,14 +13,16 @@ El curso está dividido en sesiones, y cada carpeta representa una sesión con s
 
 ## 📁 Estructura general del repositorio
 
-- `Sesion-XX/`
-  - `README.md` – Descripción general de los retos de la sesión
-  - `sXX-reto-01/`
-    - `out/` – Archivos compilados
-    - `src/` – Código fuente Java
-    - `reto.iml` – Archivo del proyecto (opcional)
-  - `sXX-reto-02/`
-    - ...
+- `Bedu-Java/`
+  - `Modulo_X/`
+    - `Sesion-XX/`
+      - `README.md` – Descripción general de los retos de la sesión
+      - `sXX-reto-01/`
+        - `out/` – Archivos compilados
+        - `src/` – Código fuente Java
+        - `reto.iml` – Archivo del proyecto (opcional)
+      - `sXX-reto-02/`
+        - ...
 
 
 
