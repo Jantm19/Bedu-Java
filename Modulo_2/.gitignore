@@ -1,0 +1,79 @@
+# Archivos de compilación y salida (Generado por Maven/Gradle)
+/target/
+/build/
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos de empaquetado y temporales
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*~
+*.swp
+*.bak
+*.tmp
+*.class
+*.lst
+
+# Archivos de configuración de IDEs y entornos de desarrollo
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+*.form
+*.ser
+
+# macOS (archivos generados por el sistema operativo)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows (archivos generados por el sistema operativo)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de Maven específicos del usuario o del proyecto
+# Maven Wrapper (ignora el JAR, pero no los scripts del wrapper)
+.mvn/wrapper/maven-wrapper.jar
+
+# Archivos generados por Maven durante el ciclo de vida
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Cobertura de código y resultados de pruebas
+/target/site/
+*.exec
+*.ser
+
+# Archivos de configuración de Spring Boot
+/src/main/resources/application.properties
+application*.properties.orig
+application*.yml.orig
